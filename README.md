@@ -1,16 +1,27 @@
-### Hi there 👋
+### Greetings and salutations !
+## I'm Frederik and currently studying Frontend
 
-<!--
-**Frederik-Rustad/Frederik-Rustad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in creating beautiful, responsive websites and web applications.
+With a passion for creating modern, user-friendly experiences,
+I'm always looking for new ways to build intuitive interfaces.
 
-Here are some ideas to get you started:
+## Skils
+```
+- Knowledgeable in webdeveloping using HTML, CSS and JS.
+- Hobby photagraphy & Photoshop
+- Service electronics in low voltage systems
+- 3D printing, ( but not 3d modeling, yet ) 
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Currently learning
+```
+- Deep dive into more complex JavaScript
+- Blender for 3d modeling
+```
+
+## Contact
+
+```
+📧 Email: [Frerus50251@stud.noroff.no](Frerus50251@stud.noroff.no)
+🐦 Twitter: [My Twitter](https://twitter.com/Penrose_Studio)
+```

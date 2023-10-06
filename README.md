@@ -22,9 +22,7 @@ I'm always looking for new ways to build intuitive interfaces.
 
 ### Contact
 
-```
 📧 Email: [Frerus50251@stud.noroff.no](Frerus50251@stud.noroff.no)
-```
-```
+
 🐦 Twitter: [My Twitter](https://twitter.com/Penrose_Studio)
-```
+

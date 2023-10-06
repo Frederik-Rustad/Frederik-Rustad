@@ -1,4 +1,5 @@
 ## Greetings and salutations !
+
 ### I'm Frederik and currently studying Frontend
 
 I specialize in creating beautiful, responsive websites and web applications.
@@ -23,5 +24,7 @@ I'm always looking for new ways to build intuitive interfaces.
 
 ```
 📧 Email: [Frerus50251@stud.noroff.no](Frerus50251@stud.noroff.no)
+```
+```
 🐦 Twitter: [My Twitter](https://twitter.com/Penrose_Studio)
 ```

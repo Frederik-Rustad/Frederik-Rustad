@@ -2,9 +2,14 @@
 
 ### I'm Frederik and currently studying Frontend
 
-I specialize in creating beautiful, responsive websites and web applications.
+I'm a Front-end developer based in Viken, Norway.
+I specialize in creating beautiful, responsive websites.
 With a passion for creating modern, user-friendly experiences,
 I'm always looking for new ways to build intuitive interfaces.
+As demonstrated here, I higly enjoy the animation possibilities with CSS.
+
+I'm a hobby photagrapher and a painter in my free time.
+With an education in Service Electronics and a background in the service industry.
 
 ### Skils
 ```

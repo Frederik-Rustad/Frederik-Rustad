@@ -27,7 +27,7 @@ With an education in Service Electronics and a background in the service industr
 
 ### Contact
 
-📧 Email: [Frerus50251@stud.noroff.no](Frerus50251@stud.noroff.no)
+📧 Email: [Frederik.Rustad.89@gmail.com](Frederik.Rustad.89@gmail.com)
 
 🐦 Twitter: [My Twitter](https://twitter.com/Penrose_Studio)
 

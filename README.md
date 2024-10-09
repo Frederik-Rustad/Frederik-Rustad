@@ -29,5 +29,5 @@ With an education in Service Electronics and a background in the service industr
 
 📧 Email: [Frederik.Rustad.89@gmail.com](Frederik.Rustad.89@gmail.com)
 
-Linkedin: [My Linkedin]([https://twitter.com/Penrose_Studio](https://www.linkedin.com/in/frederik-rustad-119a48306/))
+Linkedin: [My Linkedin](https://www.linkedin.com/in/frederik-rustad-119a48306/)
 
